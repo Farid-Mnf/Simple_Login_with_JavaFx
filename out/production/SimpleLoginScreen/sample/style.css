@@ -1,0 +1,11 @@
+.button {
+    -fx-background-color:#80334d;
+    -fx-text-fill:white;
+}
+#gridpane{
+    -fx-background-color:#00876c;
+}
+
+.label{
+    -fx-text-fill:white;
+}
